@@ -6,7 +6,7 @@ $this->title = 'Privacy Policy';
 //$this->params['breadcrumbs'][] = $this->title;
 ?>
 
-<div class="site-privacy-policy">
+<div class="privacy-policy">
     <h1><?= Html::encode($this->title) ?></h1>
 
     <p>

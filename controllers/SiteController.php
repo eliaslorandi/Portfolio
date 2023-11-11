@@ -61,6 +61,10 @@ class SiteController extends Controller
      */
     public function actionIndex()
     {
+        /* teste de conexão com o banco de dados -> home
+        var_dump(Yii::$app->db->schema->getQueryBuilder());
+        die();
+        */
         return $this->render('index');
     }
 
