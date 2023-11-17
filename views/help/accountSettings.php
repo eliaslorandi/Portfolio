@@ -12,7 +12,7 @@ $this->params['breadcrumbs'][] = $this->title;
     <h1><?= Html::encode($this->title); ?></h1>
 
     <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed purus quis dolor rutrum mattis a vitae lorem. Donec venenatis, libero et tristique ullamcorper, mauris mauris consequat turpis, eu luctus nisi nibh sit amet sapien. Morbi odio sem, laoreet non nunc nec, porttitor commodo nisi. Integer euismod lectus tortor, non interdum est volutpat eget. Sed pellentesque, sem et sollicitudin dapibus, leo dui tempor ante, eget malesuada erat est vel leo. Morbi condimentum elementum aliquet. Duis aliquet dictum sapien, eget congue risus pellentesque non.
+        Lorrem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed purus quis dolor rutrum mattis a vitae lorem. Donec venenatis, libero et tristique ullamcorper, mauris mauris consequat turpis, eu luctus nisi nibh sit amet sapien. Morbi odio sem, laoreet non nunc nec, porttitor commodo nisi. Integer euismod lectus tortor, non interdum est volutpat eget. Sed pellentesque, sem et sollicitudin dapibus, leo dui tempor ante, eget malesuada erat est vel leo. Morbi condimentum elementum aliquet. Duis aliquet dictum sapien, eget congue risus pellentesque non.
     </p>
 
     <p>
